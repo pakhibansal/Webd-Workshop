@@ -1,0 +1,21 @@
+.box{
+    box-shadow: 1px 1px 10px 3px lightgray;
+    width: 25%;
+    padding: 1%;
+    margin: 2%;
+    float: left;
+}
+
+#name{
+    font-family: 'Be Vietnam', sans-serif;
+}
+
+#details{
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+}
+
+i{
+    margin: 3%;
+    align-content: center;
+}
